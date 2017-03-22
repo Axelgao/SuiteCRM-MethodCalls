@@ -1,2 +1,2 @@
 # SuiteCRMMethodCalls
-Spare Time Coding Example: C# SuiteCRM, Web Service, REST
+Spare Time Coding Sample: C# SuiteCRM, Web Service, REST
